@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="324.5" cy="107.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 306 117)" font-family="'Consolas'" font-size="36">21</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="180.5" cy="251.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 162 261)" font-family="'Consolas'" font-size="36">14</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="144.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 126 405)" font-family="'Consolas'" font-size="36">57</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="36.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 18 405)" font-family="'Consolas'" font-size="36">32</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="251.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 233 405)" font-family="'Consolas'" font-size="36">19</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="578.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 560 405)" font-family="'Consolas'" font-size="36">98</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="397.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 379 405)" font-family="'Consolas'" font-size="36">26</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="463.5" cy="251.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 445 261)" font-family="'Consolas'" font-size="36">34</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="523.5" cy="540.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 505 550)" font-family="'Consolas'" font-size="36">24</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="631.5" cy="540.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 613 550)" font-family="'Consolas'" font-size="36">74</text>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="297" y1="135" x2="207" y2="225"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="351.001" y1="135" x2="441.001" y2="225"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="171" y1="288" x2="144.5" y2="359.206"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="148.921" y1="270" x2="47.96" y2="362.298"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="199.981" y1="282.566" x2="243" y2="360.001"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="441.001" y1="279" x2="414.001" y2="360.001"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="491.215" y1="275.443" x2="563.798" y2="362.298"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="560" y1="427.167" x2="540.001" y2="508.152"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="595.645" y1="427.931" x2="621.001" y2="504.001"/>
+<rect x="-2" y="64" opacity="0.1" fill="#FFFF00" width="702" height="87"/>
+<rect y="208" opacity="0.1" fill="#FFFF00" width="702" height="87"/>
+<rect x="-7" y="352" opacity="0.1" fill="#FFFF00" width="702" height="87"/>
+<rect x="-1" y="497" opacity="0.1" fill="#FFFF00" width="702" height="87"/>
+<text transform="matrix(1 0 0 1 427.501 111.7085)" font-family="'Consolas'" font-size="24">depth 0</text>
+<text transform="matrix(1 0 0 1 273.8794 255.4326)" font-family="'Consolas'" font-size="24">depth 1</text>
+<text transform="matrix(1 0 0 1 441 400.251)" font-family="'Consolas'" font-size="24">depth 2</text>
+<text transform="matrix(1 0 0 1 351.001 545.1338)" font-family="'Consolas'" font-size="24">depth 3</text>
+</svg>

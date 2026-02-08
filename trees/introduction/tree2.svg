@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<symbol  id="Arrow_4" viewBox="-22.86 -7.668 45.72 15.336">
+	<g>
+		<g>
+			<polygon points="-5.744,-1.585 -5.744,-7.668 22.86,-0.007 -5.744,7.668 -5.744,1.585 -22.86,1.585 -22.86,-1.585 			"/>
+		</g>
+	</g>
+</symbol>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="324.5" cy="107.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 306 117)" font-family="'Consolas'" font-size="36">21</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="180.5" cy="251.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 162 261)" font-family="'Consolas'" font-size="36">14</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="144.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 126 405)" font-family="'Consolas'" font-size="36">57</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="36.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 18 405)" font-family="'Consolas'" font-size="36">32</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="251.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 233 405)" font-family="'Consolas'" font-size="36">19</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="578.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 560 405)" font-family="'Consolas'" font-size="36">98</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="397.5" cy="395.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 379 405)" font-family="'Consolas'" font-size="36">26</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="463.5" cy="251.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 445 261)" font-family="'Consolas'" font-size="36">34</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="523.5" cy="540.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 505 550)" font-family="'Consolas'" font-size="36">24</text>
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="631.5" cy="540.706" r="36.5"/>
+<text transform="matrix(1 0 0 1 613 550)" font-family="'Consolas'" font-size="36">74</text>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="297" y1="135" x2="207" y2="225"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="351.001" y1="135" x2="441.001" y2="225"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="171" y1="288" x2="144.5" y2="359.206"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="148.921" y1="270" x2="47.96" y2="362.298"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="199.981" y1="282.566" x2="243" y2="360.001"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="441.001" y1="279" x2="414.001" y2="360.001"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="491.215" y1="275.443" x2="563.798" y2="362.298"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="560" y1="427.167" x2="540.001" y2="508.152"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="595.645" y1="427.931" x2="621.001" y2="504.001"/>
+<text transform="matrix(1 0 0 1 397.5 99.832)" font-family="'Consolas'" font-size="24">parent</text>
+<text transform="matrix(1 0 0 1 95.2598 497.4385)" font-family="'Consolas'" font-size="24">children</text>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_1_" x="-22.86" y="-7.668" transform="matrix(-0.3594 -0.4176 -1.2688 0.5688 71.207 455.5166)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_3_" x="-22.86" y="-7.668" transform="matrix(-0.0167 -0.5507 -1.3441 -0.3559 148.8252 454.5059)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_4_" x="-22.86" y="-7.668" transform="matrix(0.2855 -0.4712 -0.9344 -1.0297 222.6265 455.2549)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_6_" x="-22.86" y="-7.668" transform="matrix(-0.543 0.0934 -0.1649 1.3806 378.8691 94.4932)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 108 176.9028)" font-family="'Consolas'" font-size="24">node</text>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_8_" x="-22.86" y="-7.668" transform="matrix(0.3862 0.393 1.2284 -0.6514 145.9087 201.7871)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_7_" x="-22.86" y="-7.668" transform="matrix(0.4008 -0.3781 -0.6261 -1.2415 396.4951 201.2729)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 260.3394 336.5015)" fill="#C1272D" font-family="'Consolas'" font-size="24">not siblings</text>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_2_" x="-22.86" y="-7.668" transform="matrix(0.3862 0.393 1.2284 -0.6514 362.6387 353.3086)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_5_" x="-22.86" y="-7.668" transform="matrix(-0.2274 0.5019 1.0503 0.9111 295.6943 353.9941)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 527.5059 618.416)" font-family="'Consolas'" font-size="24">siblings</text>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_10_" x="-22.86" y="-7.668" transform="matrix(0.1879 -0.518 -1.1177 -0.827 616.0791 592.7031)" overflow="visible"/>
+<use xlink:href="#Arrow_4"  width="45.72" height="15.336" id="XMLID_9_" x="-22.86" y="-7.668" transform="matrix(-0.3182 -0.4498 -1.317 0.446 531.7705 593.3887)" overflow="visible"/>
+</svg>

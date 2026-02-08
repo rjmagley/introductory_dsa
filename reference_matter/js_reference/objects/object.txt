@@ -1,0 +1,79 @@
+A JavaScript object (also known as a hashmap, or in some cases an associative array, although that term is less common) is a key-value pair data structure. Other languages frequently refer to them as 'dictionaries'. An object is made up of a number of keys, each one of which has an associated value.
+
+(object_diagram.png)
+
+Keys
+
+Keys are how we access data from an object. Every key is associated with a specific value, and every key in an object is unique - if an object had two idential keys, there would be no way to determine which value we wanted to receive in return.
+
+Typically, we think of object keys as strings, and in JavaScript this is always true - even if you give an object a key using a number or boolean, it becomes a string.
+
+Other languages will let you get more interesting - in Python, for example, nearly anything can be a key for a dictionary (how a key-value data structure is referred to in that language - we don't call it an 'object', because that term means something else there), including lists, other dictionaries, functions... you name it. This can get a bit confusing for people used to languages where this isn't true, and a developer may have to work in many different languages. Unless you have a clear, problem-specific reason to do so, strings are generally the best bet for keys no matter what you're doing.
+
+Values
+
+Values are the data associated with keys. A value can be nearly anything... a number, a string, a boolean, or even an array or another object.
+
+JSON
+
+You may hear the term JSON frequently; it's short for 'JavaScript Object Notation'. JSON is essentially a data format; a text-based representation of a JavaScript object. JSON is a common way of transmitting and storing data in a (mostly) human-readable format between applications, even applications written in different languages. Most languages have a built-in function or class that will read JSON, either from disk or from a source of data online (like an API), then translate it to a data structure known to that language.
+
+Quick Reference To Objects
+
+To create an empty object:
+
+let variable_name = {};
+
+To create an object pre-populated with values, fill in the curly braces with the key, a colon, then the value for that key. If you have multiple key/value pairs, seperate them with commas.
+
+let variable_name = {'key_1': 239, 'key_2': [24, 21, 27], 'key_3': true}
+
+To access the value of a key from an object, use the variable name the object is stored under, followed by square brackets. Inside those brackets will be the key you want the value of. For example, if you just needed to print a value to the console:
+
+console.log(sample_object['sample_key']);
+
+To add a new key/value pair to an object, you use the object variable, square brackets containing the new key name, then you use an equals sign to assign a value to it.
+
+personal_info['first_name'] = 'Beth';
+
+If you want to change the value of a key, it's the same syntax as creating a new one.
+
+personal_info['first_name'] = 'Bethany';
+
+You can also do certain other operations, like using += or -= to add or subtract from a number.
+
+game_status['lives'] -= 1;
+
+If the value of a key is a list or an object, you can continue to use square brackets to reference the indexes or keys of that next item. For example, this is an object representation of a basketball game that may occur in the neat future:
+
+{
+    'game_date': '08/12/2129',
+    'game_arena': 'Madison^2 Garden',
+    'game_quarter': 1,
+    'quarter_time_remaining': 63,
+    'home_team': {
+        'team_name': 'Neo-York Knicks',
+        'current_score': 14
+    },
+    'away_team': {
+        'team_name': 'Anchorage Kodiaks',
+        'current_score': 11
+    }
+}
+
+and it's being stored in the variable current_game. If the Kodiaks shoot from the McDonalds Presents: The Five Point Golden Arch and score, their score needs to go up by five:
+
+current_game['away_team']['current_score'] += 5;
+
+If you need to know if a specific key is present in an object, key in object will return true or false.
+
+> let data_packet = {'date': '02/21/22', 'access_level': 3, 'item1': 1282191, 'item2': 917312, 'item3': 129128};
+> 'item1' in data_packet;
+true
+> 'timestamp' in data_packet;
+false
+
+You can also simply request the value of the key; if the key isn't present, it will return undefined.
+
+> data_packet['item4'] == undefined
+true
